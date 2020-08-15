@@ -892,7 +892,7 @@
             </h1>
 
             <!-- Button -->
-            <a href="https://www.youtube.com/watch?v=9I-Y6VQ6tyI" class="btn btn-pill btn-white shadow lift" data-fancybox>
+            <a href="#" class="btn btn-pill btn-white shadow lift" data-fancybox>
               <i class="fe fe-eye mr-2"></i>
               Watch us work
             </a>
@@ -936,12 +936,12 @@
 
             <!-- Heading -->
             <h1>
-              Earn revenue while <span class="text-primary">enjoying a vacation.</span>
+              Quality Service <span class="text-primary">Fair cost.</span>
             </h1>
 
             <!-- Text -->
             <p class="lead text-gray-700 mb-7 mb-md-9">
-              Anytime you leave your home vacant, you're wasting potential earnings! Rent it out for an hour or a day at a time.
+              Accurate financial information and excellent taxation services tailored to each client's needs
             </p>
 
           </div>
@@ -953,7 +953,8 @@
             <div class="mb-8 mb-md-0">
 
               <!-- Image -->
-              <img src="assets/img/screenshots/desktop/rental.jpg" alt="..." class="screenshot img-fluid mw-md-110 float-right mr-md-6 mb-6 mb-md-0">
+              <!-- <img src="assets/img/screenshots/desktop/rental.jpg" alt="..." class="screenshot img-fluid mw-md-110 float-right mr-md-6 mb-6 mb-md-0"> -->
+              <img src="https://i.dlpng.com/static/png/7039589_preview.png" alt="..." class="screenshot img-fluid mw-md-110 float-right mr-md-6 mb-6 mb-md-0">
               
             </div>
 
@@ -973,12 +974,12 @@
                 
                 <!-- Heading -->
                 <h3>
-                  Sign up 
+                  Quality Service 
                 </h3>
 
                 <!-- Text -->
                 <p class="text-gray-700 mb-6">
-                  It takes a few minutes to add your information and home's photos.
+                  Service nurtured by the desire to excel. We have years of experience in this fiels. Let us help you keep things in place
                 </p>
 
               </div>
@@ -996,12 +997,12 @@
                 
                 <!-- Heading -->
                 <h3>
-                  List your homes
+                  Excellent Support
                 </h3>
 
                 <!-- Text -->
                 <p class="text-gray-700 mb-6">
-                  Let us know where your homes are located and when they're available.
+                  Let us know when you need our support. Our excellent support system has your interest at heart
                 </p>
 
               </div>
@@ -1019,7 +1020,7 @@
                 
                 <!-- Heading -->
                 <h3>
-                  Start welcoming guests
+                  Responsive
                 </h3>
 
                 <!-- Text -->
@@ -1056,7 +1057,10 @@
 
             <!-- Text -->
             <p class="font-size-lg text-gray-700 mb-6">
-              Instead of constantly worrying about when your home will be in demand, just share your availability and we will price based on popularity of your listing, seasonal factors, nearby events, and more.
+              To be an internationally recognized and highly respected professional services firm that offers quality 
+              financial services to its clients around the world.
+            
+                Our pricing is highly flexible despite our years of experience in the field, Contact us 
             </p>
 
             <!-- List -->
@@ -1073,7 +1077,7 @@
                   
                   <!-- Text -->
                   <p>
-                    35% more earned
+                    65% more earned
                   </p>
 
                 </div>
@@ -1105,7 +1109,7 @@
                   
                   <!-- Text -->
                   <p>
-                    60% less vacancy
+                    50% more affordable
                   </p>
 
                 </div>
@@ -1353,7 +1357,7 @@
               
               <!-- Text -->
               <p class="mb-5 mb-md-7">
-                "It was incredibly easy to post the unused apartment above my garage for rent and have since been paying my mortgage with the proceeds.”
+                "Getting to work with ECA professional service open my eye to the importance of audit in my start up”
               </p>
 
               <!-- Footer -->
@@ -1385,7 +1389,7 @@
               
               <!-- Text -->
               <p class="mb-5 mb-md-7">
-                “If you're going on vacation, you might as well get paid while you travel! Share your home with others and return to a nice paycheck when you arrive home.”
+                “They are fast, reliable and trust worthy. I highly recommend working with ECA consulting”
               </p>
 
               <!-- Footer -->
@@ -1416,7 +1420,7 @@
 
             <!-- Text -->
             <p class="font-size-lg text-white-80 mb-6 mb-md-8">
-              Post your home today and start entertaining welcome guests and collecting a paycheck without ever lifting a finger.
+              We provide accurate financial information and excellent taxation services tailored to each client's needs. We are committed to honesty, clarity and professionalism in our operations; we strive to be above board at all time. Our internationally experienced professionals strive to deliver seamless, consistent services wherever our clients operate. Our mission is to help our clients and our people excel. 
             </p>
 
             <!-- Button -->
